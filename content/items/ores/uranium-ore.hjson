@@ -2,3 +2,4 @@ type: Ore
 name: Uranium Ore
 description: DOES NOT taste good.
 radioactivity: 1
+itemType: Material
