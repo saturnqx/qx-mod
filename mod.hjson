@@ -1,0 +1,8 @@
+name: "qx-mod"
+displayName: "saturnqx's tire fire mod"
+author: Yourself
+description: "A mod for me to learn with"
+version: "1.0"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
